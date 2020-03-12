@@ -1,0 +1,1 @@
+/home/dpuiu/ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1.7/CHESS_to_RefSeq_to_GENCODE.txt
