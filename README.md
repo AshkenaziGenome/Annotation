@@ -46,3 +46,8 @@ Since Version 2.0 was a complete re-build of the chromosomes, we re-computed the
 |chrX|1317|1317|1319|1319|
 |chrY|210|210|218|216|
 |Total|42202|42190|42208|42188| 
+
+
+The annotation for the 2.0 assembly is available here:
+
+* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v2.0/Annotation/
