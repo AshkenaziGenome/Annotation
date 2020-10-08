@@ -5,9 +5,13 @@ protein-coding and noncoding.
 
 # Version 1.7
 
+This is an initial version described in:
+
+`Shumate A, Zimin AV, Sherman RM, Puiu D, Wagner JM, Olson ND, Pertea M, Salit ML, Zook JM, Salzberg SL. Assembly and annotation of an Ashkenazi human reference genome. Genome biology. 2020 Dec;21(1):1-8.`
+
 The annotation for the version 1.7 is available at these locations:
 
-* [AWS](https://ashkenazi-genome.s3.us-east-2.amazonaws.com/Annotation/index.html)
+* https://ashkenazi-genome.s3.us-east-2.amazonaws.com/Annotation/index.html
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v1.7/Annotation/
 
 # Version 2.0
