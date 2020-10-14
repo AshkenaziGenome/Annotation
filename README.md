@@ -16,7 +16,7 @@ The annotation for the version 1.7 is available at these locations:
 
 # Version 2.0
 
-Version 2.0 sequence is a complete re-build of the chromosomes.  Thus we re-computed the annotation with the latest version of the Liftoff software following the procedure described in the original publication, lifting CHESS 2.2 annotation of GRCh38 onto v2.0 of Ash1.  Below is the comparison of the number of genes annotated on each chromosome (not counting genes annotated on unlocalized or alternative contigs) in the GRCh38, the original version 1.7 and the new version 2.0.  Note that Ash1 reference may have more genes on the chromosomes that GRCh38 because some genes that were on unplaced contigs in GRCh38 are on the chromosome sequences in Ash1.
+Version 2.0 sequence is a complete re-build of the chromosomes.  Thus we re-computed the annotation with version 1.5.0 of the Liftoff software following the procedure described in the original publication, lifting CHESS 2.2 annotation of GRCh38 onto v2.0 of Ash1.  Below is the comparison of the number of genes annotated on each chromosome (not counting genes annotated on unlocalized or alternative contigs) in the GRCh38, the original version 1.7 and the new version 2.0.  Note that Ash1 reference may have more genes on the chromosomes that GRCh38 because some genes that were on unplaced contigs in GRCh38 are on the chromosome sequences in Ash1.
 
 |chromosome|GRCh38 # genes|v1.7 # genes|v1.7 # genes same chr as GRCh38|v2.0 # genes|v2.0 # genes same chr as GRCh38|
 |----|----|----|----|----|----|
