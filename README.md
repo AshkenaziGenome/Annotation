@@ -53,3 +53,9 @@ Version 2.0 sequence is a complete re-build of the chromosomes.  Thus we re-comp
 The annotation for the 2.0 assembly is available here:
 
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v2.0/Annotation/
+
+# Version 2.2
+
+The annotation for the 2.2 assembly is available here:
+
+* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v2.2/Annotation/
